@@ -1,4 +1,4 @@
--- Internet Programming Y3S1 Assignment 2
+- Internet Programming Y3S1 Assignment 2
 
 How to view the website
 > clone this repo and cd into it
