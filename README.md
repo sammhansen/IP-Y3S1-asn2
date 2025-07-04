@@ -7,3 +7,6 @@ How to view the website
    ```
     chromium index.html
    ```
+
+https://github.com/user-attachments/assets/3e77bd84-bfe9-4b41-9f08-fb0c74f8e8d8
+
